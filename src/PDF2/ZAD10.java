@@ -13,7 +13,7 @@ public class ZAD10 {
         double tluszcz= input.nextDouble();
         double kalorieT= tluszcz*9;
         double kalorieZ= kalorieT/kalorie*100 ;
-        if(kalorie < kalorieT ){System.out.print("Dne wejściowe są nieprawidłowe  ");
+        if(kalorie < kalorieT ){System.out.print("Dane wejściowe są nieprawidłowe  ");
             return;
         }
 
