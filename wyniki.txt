@@ -1,0 +1,7 @@
+Godzina Przebyta odległość: 
+1 40.0
+Godzina Przebyta odległość: 
+2 80.0
+Godzina Przebyta odległość: 
+3 120.0
+Całkowita przebyta odległość: 120.0
